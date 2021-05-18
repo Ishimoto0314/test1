@@ -9,3 +9,6 @@
 - apple
 - orange
 - banana
+
+## log
+自分のパソコンにクローンしてみた。その後、commitして、push。
